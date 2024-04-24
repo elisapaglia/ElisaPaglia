@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elisapaglia
 - 👀 I’m interested in front-end development, sustainability, accessibility and localization
-- 🌱 I’m currently enrolled in a 6-months front-end development course focused on HTML, CSS, Javascript, Bootstrap, Vue.js and cybersecurity
+- 🌱 I just finished a 6-months front-end development course focused on HTML5, CSS3, Javascript, Bootstrap, Vue.js and cybersecurity
 - 💞️ I’m looking to learn more and start a career as a website developer and localization specialist
 - 📫 You can reach me via Linkedin (www.linkedin.com/in/elisa-paglia) or via email at: elisapaglia153@outlook.it
 - 😄 Pronouns: she/her
